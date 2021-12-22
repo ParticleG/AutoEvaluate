@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name            杭电学评教（新）
 // @namespace       http://tampermonkey.net/
-// @version         0.1.0
+// @updateURL       https://raw.githubusercontent.com/ParticleG/AutoEvaluate/main/dist.user.js
+// @downloadURL     https://raw.githubusercontent.com/ParticleG/AutoEvaluate/main/dist.user.js
+// @version         1.0.0
 // @description     杭电新版教务系统自动学生评价插件
 // @author          Particle_G
 // @match           http://newjw.hdu.edu.cn/jwglxt/xspjgl/xspj_cxXspjIndex.html*
